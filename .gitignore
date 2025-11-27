@@ -1,0 +1,4 @@
+fpga_sim
+*.o
+final_output.ppm
+debug_stage_*.ppm
